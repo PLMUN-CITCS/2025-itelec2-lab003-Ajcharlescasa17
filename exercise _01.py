@@ -10,7 +10,7 @@ total_count = 20             # Another integer literal assignment
 decimal_value = 3.14         # Floating-point literal
 message = "Hello, Python!"   # String literal
 is_active = True             # Boolean literal
-result = None                # None literal represents absence of value
+result = None                # None literal represents the absence of a value
 
 # Displaying variable values
 print("Integer (count):", count)
